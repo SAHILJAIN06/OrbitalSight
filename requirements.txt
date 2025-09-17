@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+sgp4
+scikit-learn
+scipy
+joblib
+plotly
+dash
